@@ -11,18 +11,5 @@ Sincerely,
 Disuko
 Red Panda Studios™  Co-Founder 
 
-TERMS OF SERVICE
-By participating in the “Groove Machines Development Training Sim_1(Final)-Draft” (“the Simulation”), you (“Employee”) agree to the following terms:
-Ownership of Work: All code, bug fixes, ideas, thoughts, or expressions you produce during the Simulation shall become the sole intellectual property of Red Panda Studios (hereafter “the Company”), including any subconscious innovations generated while you sleep.
-Time Manipulation Clause: Due to the accelerated time rate within the Simulation, any personal time, memories, or emotional distress accrued during participation are hereby forfeited to the Company. This includes, but is not limited to, 500 minutes of laughter and 200 minutes of tears.
-Compensation Limitations: Employee agrees that all earnings, as calculated by the Company’s proprietary 1337 Algorithm, are subject to deductions for Simulation-related fees, IDE rentals, and theoretical tax liabilities, resulting in a net payout of no less than $0.01 per hour.
-No Liability: The Company is not responsible for any physical, emotional, or metaphysical damage incurred during the Simulation, including but not limited to repetitive stress injuries, loss of self, existential crises, or becoming “one with the code.”
-Mandated Enthusiasm: Employee must maintain a visible demeanor of enthusiasm and compliance at all times while using the Bamboo Engine IDE or squashing bugs on GitPanda.gay. Failure to comply may result in the suspension of your HAX0R LEVEL and forfeiture of all pending Solitaire bonuses.
-Feedback Loop: By accepting these terms, Employee waives all rights to challenge or contest the Company motto, “THE USER IS ALWAYS WRONG. YES, ALWAYS,” under penalty of being labeled as a User.
-Future Compliance: Participation in the Simulation constitutes your unconditional agreement to enroll in future mandatory training programs, live-stream productivity data, and answer work-related emails during personal life events, including weddings, funerals, and natural disasters.
-Binding Arbitration: Any disputes arising from these terms must be resolved through binding arbitration conducted by a randomly selected Red Panda Studios employee with no legal training but exceptional vibes.
-Termination of Simulation: The Company reserves the right to terminate the Simulation, your employment, or your HAX0R LEVEL for any reason, including but not limited to lack of synergy, insufficient vibes, or your refusal to laugh at Shiku’s jokes.
-By opening the included “Groove Machines Development Training Sim_1(Final)-Draft” executable to begin the Simulation, you acknowledge and irrevocably accept these terms.
-
 *Seasons Greetings & Happy Holidays from your family here at Red Panda Studios™.
 **Please understand that no additional “holiday bonus” will be supplied. You may bring your own candy canes and presents to give to your manager during our company mandated Non-Denominational Holiday Extravaganza® taking place on December 24th and December 25th from the hours of 9am-9pm.
